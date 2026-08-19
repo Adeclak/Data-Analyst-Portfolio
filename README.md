@@ -8,7 +8,7 @@ Through hands-on internships and end-to-end analytics projects, I have worked ac
 
 In my free time, I enjoy dissecting product mechanics, exploring Generative AI applications, and working on graphic design. Whether working with cross-functional product squads or diving deep into raw telemetry independently, I thrive on the thrill of uncovering hidden patterns and turning data into measurable outcomes.
 
-My CV in [pdf](link).
+My CV in [pdf](https://github.com/Adeclak/Data-Analyst-Portfolio/blob/main/Adesh_Resume.pdf).
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Product Analytics related topics.
 
