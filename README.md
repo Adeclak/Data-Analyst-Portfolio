@@ -33,7 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### The AI Exposure Landscape: Workforce Risk Analysis
 
-**Code:** [`AI_Workforce_Exposure_Analysis.pbix`](#)
+**Code:** [`AI_Workforce_Exposure_Analysis.pbix`](https://docs.google.com/document/d/1bafPKAZxH8mlVwgU8zV1YyvwrnAfxmH59MZ8fdamNFw/edit?usp=sharing)
 
 **Goal:** To determine exactly which jobs, industries, and education levels are most at risk from AI disruption.
 
@@ -47,7 +47,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Cars24 Lending & Credit Card Funnel Optimization
 
-**Code:** [`Cars24_Funnel_Analysis.sql`](#)
+**Code:** [`Cars24_Funnel_Analysis.sql`](https://docs.google.com/document/d/119Q3sk4apkyNQzoYdVSIf6Xc1rrmS8cWcUngaqBNFbY/edit?usp=sharing)
 
 **Goal:** To diagnose end-to-end conversion drop-offs, credit-tier bottlenecks, and pricing inconsistencies across financial products to maximize disbursals.
 
