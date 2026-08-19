@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
-  * Power BI / Python
+  * Power BI / SQL
     * [The AI Exposure Landscape: Workforce Risk Analysis](#the-ai-exposure-landscape-workforce-risk-analysis)
   * SQL / Tableau
     * [Cars24 Lending & Credit Card Funnel Optimization](#cars24-lending--credit-card-funnel-optimization)
@@ -33,7 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### The AI Exposure Landscape: Workforce Risk Analysis
 
-**Code:** [`AI_Workforce_Exposure_Analysis.pbix`](https://docs.google.com/document/d/1bafPKAZxH8mlVwgU8zV1YyvwrnAfxmH59MZ8fdamNFw/edit?usp=sharing)
+**Code:** [`AI_Workforce_Exposure_Analysis`](https://docs.google.com/document/d/1bafPKAZxH8mlVwgU8zV1YyvwrnAfxmH59MZ8fdamNFw/edit?usp=sharing)
 
 **Goal:** To determine exactly which jobs, industries, and education levels are most at risk from AI disruption.
 
@@ -41,13 +41,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skills:** data cleaning, bias reconciliation, exploratory data analysis (EDA), risk profiling, interactive data visualization.
 
-**Technology:** Power BI, Python, DAX.
+**Technology:** Power BI, SQL, DAX.
 
 **Results:** The analysis revealed a "College Degree Paradox" where jobs requiring a Bachelor's degree have the highest AI exposure rate (0.47), while jobs requiring no formal education sit at just 0.12. Furthermore, visualizing cognitive skills proved that Spatial Ability is currently the strongest defense against AI automation.
 
 ### Cars24 Lending & Credit Card Funnel Optimization
 
-**Code:** [`Cars24_Funnel_Analysis.sql`](https://docs.google.com/document/d/119Q3sk4apkyNQzoYdVSIf6Xc1rrmS8cWcUngaqBNFbY/edit?usp=sharing)
+**Code:** [`Cars24_Funnel_Analysis`](https://docs.google.com/document/d/119Q3sk4apkyNQzoYdVSIf6Xc1rrmS8cWcUngaqBNFbY/edit?usp=sharing)
 
 **Goal:** To diagnose end-to-end conversion drop-offs, credit-tier bottlenecks, and pricing inconsistencies across financial products to maximize disbursals.
 
@@ -61,7 +61,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Amazon Prime Video Channels Monetization Strategy
 
-**Code:** [`Prime_Video_Monetization_Model.xlsx`](#)
+**Code:** [`Prime_Video_Monetization_Model`](#)
 
 **Goal:** To uncover the root cause behind low Prime Video Channels conversion and architect a data-backed product monetization framework.
 
@@ -75,7 +75,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Maruti Suzuki Logistics TTAT Optimization
 
-**Code:** [`Maruti_Supply_Chain_Analytics.xlsx`](#)
+**Code:** [`Maruti_Supply_Chain_Analytics`](#)
 
 **Goal:** To reduce truck turnaround time (TTAT) and eliminate peak-hour roadside congestion across loading/unloading bays.
 
