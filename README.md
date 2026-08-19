@@ -101,5 +101,5 @@ The best way to showcase skills is by doing and sharing your work, but sometimes
 
 ## Contact
 
-*   **LinkedIn:** [@adeshkumarpal](https://www.linkedin.com/in/adeshkumarpal)
+*   **LinkedIn:** [@Adeclak](https://www.linkedin.com/in/Adeclak)
 *   **Email:** [adesh6603@gmail.com](mailto:adesh6603@gmail.com)
