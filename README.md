@@ -75,7 +75,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Maruti Suzuki Logistics TTAT Optimization
 
-**Code:** [`Maruti_Supply_Chain_Analytics`](#)
+**Code:** [`Maruti_Supply_Chain_Analytics`](https://github.com/Adeclak/Data-Analyst-Portfolio/blob/main/TTAT%20REDUCTION%20PPT.pptx)
 
 **Goal:** To reduce truck turnaround time (TTAT) and eliminate peak-hour roadside congestion across loading/unloading bays.
 
